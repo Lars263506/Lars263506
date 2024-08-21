@@ -2,7 +2,7 @@
 
 Jeg er 30 år, og studerer IT- og Informasjonssystemer ved Universitetet i Sør-Øst Norge, Campus Bø. Jeg har tidligere jobbet ved ABAX AS, der jeg fikk mye erfaring innen Fullstackutvikling, og har vært borte i teknologier som Vue, Angular, Docker, Microsoft Azure, RabbitMQ, SQL og NoSQL (både relasjonsdatabaser og dokumentdatabaser), og mer.
 
-Hovedsakelig så har jeg jobbet i Javascript med rammeverk, og C#, men har også blitt kjent en del med Typescript. Jeg har også noe erfaring med Java fra kursingen før ABAX, inkl. ved Get Academy og Learn Java the Hard Way som ble skrevet av Graham Mitchell.
+Hovedsakelig så har jeg jobbet i Javascript med rammeverk, og C#, men har også blitt kjent en del med Typescript. Jeg har også en del erfaring med Java fra kursingen før ABAX, inkl. ved Get Academy, Learn Java the Hard Way som ble skrevet av Graham Mitchell, og nå ett år med grunnleggende programmering på universitetet.
 
 Jeg har også noe grunnleggende erfaring med modding av dataspill, og har bl.a. bidratt til fan prosjektet Monika After Story, en av de mest populære moddene til kult klassikeren Doki Doki Literature Club (der brukte jeg Python). Jeg har også laget en enkel mod for Stardew Valley.
 

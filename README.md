@@ -1,6 +1,6 @@
 ## Heisann!
 
-Jeg er 30 år, og studerer IT- og Informasjonssystemer ved Universitetet i Sør-Øst Norge, Campus Bø. Jeg har også vært tillitsvalgt i ett år, og har fått stilling som studentveileder i både programmering og database for førsteåret. Jeg har tidligere jobbet ved ABAX AS, der jeg fikk mye erfaring innen Fullstackutvikling, og har vært borte i teknologier som Vue, Angular, Docker, Microsoft Azure, RabbitMQ, SQL og NoSQL (både relasjonsdatabaser og dokumentdatabaser), og mer.
+Jeg er 30 år, og studerer IT- og Informasjonssystemer ved Universitetet i Sør-Øst Norge, Campus Bø. Jeg har også vært tillitsvalgt i ett år, og har fått stilling som studentassistent i både programmering og database for førsteåret. Jeg har tidligere jobbet ved ABAX AS, der jeg fikk mye erfaring innen Fullstackutvikling, og har vært borte i teknologier som Vue, Angular, Docker, Microsoft Azure, RabbitMQ, SQL og NoSQL (både relasjonsdatabaser og dokumentdatabaser), og mer.
 
 Hovedsakelig så har jeg jobbet i Javascript med rammeverk, og C#, men har også blitt kjent en del med Typescript. Jeg har også en del erfaring med Java fra kursingen før ABAX, inkl. ved Get Academy, Learn Java the Hard Way som ble skrevet av Graham Mitchell, og nå ett år med grunnleggende programmering på universitetet.
 

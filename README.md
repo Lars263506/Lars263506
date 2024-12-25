@@ -8,7 +8,7 @@ Jeg har også noe grunnleggende erfaring med modding av dataspill, og har bl.a. 
 
 På den andre Githuben min (github.com/freshairkaboom) har jeg en rekke med uferdige prosjekter som jeg laget mens jeg lærte programmering, og en av de er et tekstbasert RPG. Det var et av mine første prosjekter og et av de morsomste jeg har jobbet med.
 
-Mitt mål er å få meg en bachelorgrad innen IT- og Informasjonssystemer, og få meg jobb innen programmering. Enten det er frontend, backend, fullstack, databaser eller meldingssystemer, jeg har erfaring med det meste. Gjerne ta kontakt om dere har kjennskap til noen bedrifter som kunne vært interessert i en person som drives av data, og som driver data godt. Jeg tar alltid studiene mine på alvor og kommer alltid til å fortsette å lære meg det som trengs og mer i den raskt utviklende industrien.
+Mitt mål er å få meg en bachelorgrad innen IT- og Informasjonssystemer, og få meg jobb innen programmering. Enten det er frontend, backend, fullstack, databaser eller meldingssystemer, jeg har erfaring med det meste. Gjerne ta kontakt om dere har kjennskap til noen bedrifter som kunne vært interessert i en person som ser løsninger der andre ser problemer, og er sosial og omgjengelig. Jeg tar alltid studiene mine på alvor og kommer alltid til å fortsette å lære meg det som trengs og mer i den raskt utviklende industrien.
 
 <!--
 **Lars263506/Lars263506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
